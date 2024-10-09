@@ -44,3 +44,6 @@
 
 🔷 Title：TokenBurning: How & Why?
 🔑 Keyword: onfire
+
+🔷 Title：Bitcoin Rainbow Chart?
+🔑 Keyword: soblum
