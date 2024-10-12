@@ -47,3 +47,6 @@
 
 🔷 Title：Bitcoin Rainbow Chart?
 🔑 Keyword: soblum
+
+🔷 Title：Crypto Terms.Part 1
+🔑 Keyword: blumexplorer
