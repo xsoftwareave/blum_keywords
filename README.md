@@ -39,14 +39,14 @@
 🔷 Title: Play track & type track name
 🔑 Keyword: blum - big city life
 
-🔷 Title：How To Memecoin？
+🔷 Title: How To Memecoin？
 🔑 Keyword: memeblum
 
-🔷 Title：TokenBurning: How & Why?
+🔷 Title: TokenBurning: How & Why?
 🔑 Keyword: onfire
 
-🔷 Title：Bitcoin Rainbow Chart?
+🔷 Title: Bitcoin Rainbow Chart?
 🔑 Keyword: soblum
 
-🔷 Title：Crypto Terms.Part 1
+🔷 Title: Crypto Terms.Part 1
 🔑 Keyword: blumexplorer
