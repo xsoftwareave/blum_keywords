@@ -50,3 +50,9 @@
 
 🔷 Title: Crypto Terms.Part 1
 🔑 Keyword: blumexplorer
+
+🔷 Title: Sharding Explained
+🔑 Keyword: blumtastic
+
+🔷 Title: How to trade Perps?
+🔑 Keyword: cryptofan
