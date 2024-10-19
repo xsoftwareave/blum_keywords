@@ -56,3 +56,6 @@
 
 🔷 Title: How to trade Perps?
 🔑 Keyword: cryptofan
+
+🔷 Title: Defi Explained
+🔑 Keyword: blumforce
