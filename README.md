@@ -59,3 +59,6 @@
 
 🔷 Title: Defi Explained
 🔑 Keyword: blumforce
+
+🔷 Title: How To Find Altcoins
+🔑 Keyword: ultrablum
