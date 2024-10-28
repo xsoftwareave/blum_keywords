@@ -62,3 +62,9 @@
 
 🔷 Title: How To Find Altcoins
 🔑 Keyword: ultrablum
+
+🔷 Title: Crypto Slang. Part 1
+🔑 Keyword: blumstorm
+
+🔷 Title: What is On-chain Analysis?
+🔑 Keyword: blumextra
