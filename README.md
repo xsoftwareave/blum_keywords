@@ -68,3 +68,6 @@
 
 🔷 Title: What is On-chain Analysis?
 🔑 Keyword: blumextra
+
+🔷 Title: Pumptober Special
+🔑 Keyword: pumpit
