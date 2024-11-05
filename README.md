@@ -71,3 +71,12 @@
 
 🔷 Title: Pumptober Special
 🔑 Keyword: pumpit
+
+🔷 Title: DeFiRisks: Key Insights
+🔑 Keyword: blumhelps
+
+🔷 Title: Crypto Slang. Part2
+🔑 Keyword: fomooo
+
+🔷 Title: Choosing a Crypto Exchange
+🔑 Keyword: cryptozone
