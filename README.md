@@ -80,3 +80,6 @@
 
 🔷 Title: Choosing a Crypto Exchange
 🔑 Keyword: cryptozone
+
+🔷 Title: Node sales in crypto
+🔑 Keyword: blumify
